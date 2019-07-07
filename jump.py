@@ -1,3 +1,5 @@
+# Material para Profesores de School Of Tech
+# https://github.com/MatyIsHere/animations-pygame
 import pygame
 import sys
 
